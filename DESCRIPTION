@@ -1,0 +1,9 @@
+Package: exploBATCHcolon
+Type: Package
+Title: A package with colon cancer gene expression dataset used in Nyamundanda et al (2017) manuscript on batch detection and correction.
+Version: 1.0
+Date: 2017-05-12
+Author: Gift Nyamundanda gift.nyamundanda@icr.ac.uk 
+Maintainer: Gift Nyamundanda <gift.nyamundanda@icr.ac.uk>
+Description: Gene expression data for 110 samples. 
+License: GPL (>= 2)
